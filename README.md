@@ -9,3 +9,4 @@ Calculated hurst exponents for each stock to classify them into mean reverting a
 Calculated mean values and deviation using StockVWAP and price spread for different time frames
 Filtered the top 25 stocks using a criteria and implemented ARIMA model to predict future price of the stock
 Built a mean reversion trading strategy using predicting when to buy or sell/short the stock
+ further details:https://docs.google.com/document/d/1ttSY7uiD3Lh9XXFHvYwSNvx7Z6VU7KKST1UgwQWF9Sk/edit
